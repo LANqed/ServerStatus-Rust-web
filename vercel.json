@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/json/stats.json",
+      "dest": "https://hk.api.lanqed.top/json/stats.json"
+    },
+    {
+      "src": "/detail",
+      "dest": "https://hk.api.lanqed.top/detail"
+    },
+    {
+      "src": "/map",
+      "dest": "https://hk.api.lanqed.top/map"
+    },
+    {
+      "src": "/i",
+      "dest": "https://hk.api.lanqed.top/i"
+    }
+  ]
+}
